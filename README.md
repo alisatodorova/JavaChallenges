@@ -1,5 +1,4 @@
 # JavaChallenges
-Some interesting and challenging programs and algorithms I coded in Java during my self-study.
+Some interesting and challenging programs and algorithms I coded in Java.
 
-#### From Newest to Oldest:
-**1.**
+Each file is a different, stand-alone program with included description of the challenge.
